@@ -57,7 +57,9 @@ UCI Machine Learning Repository
 
 ## Model Info
 Algorithm: Random Forest
+
 Preprocessing: StandardScaler
+
 Accuracy: 90.02%
 
 ## Author
