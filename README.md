@@ -49,17 +49,16 @@ pip install -r requirements.txt
 ## Launch the app:
 streamlit run app.py
 
-Dataset Source
+## Dataset Source
 Online Shoppers Purchasing Intention Dataset
 
-Source: UCI Machine Learning Repository
+## Source:
+UCI Machine Learning Repository
 
- Model Info
+## Model Info
 Algorithm: Random Forest
-
 Preprocessing: StandardScaler
+Accuracy: 90.02%
 
-Accuracy: (Add yours here after training)
-
- Author
+## Author
 Made with ❤️ by Smriti Jha
