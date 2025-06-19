@@ -36,3 +36,16 @@ This is a Streamlit web app that predicts whether an online shopper will complet
    ```bash
    git clone https://github.com/smriti0210/Shopping-Intension-App.git
    cd Shopping-Intension-App
+
+   Create a virtual environment:
+
+## Create a virtual environment:
+python -m venv shopper-env
+.\shopper-env\Scripts\Activate.ps1   # For Windows
+
+## Install dependencies:
+pip install -r requirements.txt
+
+## Launch the app:
+streamlit run app.py
+
